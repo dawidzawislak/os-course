@@ -1,0 +1,2 @@
+Czas wersji 1-bitowej: 1.218926 s
+Czas wersji 1024-bitowej: 0.005579 s
